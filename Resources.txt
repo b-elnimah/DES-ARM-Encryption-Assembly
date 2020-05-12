@@ -1,0 +1,5 @@
+http://web.townsendsecurity.com/bid/72450/What-are-the-Differences-Between-DES-and-AES-Encryption
+https://www.sans.org/reading-room/whitepapers/vpns/day-des-died-72
+https://www.youtube.com/watch?v=UgFoqxKY7cY
+http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
+https://en.wikipedia.org/wiki/DES_supplementary_material
